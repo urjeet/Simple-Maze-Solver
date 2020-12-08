@@ -5,7 +5,6 @@
 /**
 *This Maze Solver program can solve any maze that does not have dead-ends and has only one solution.
 *One of my first Java programs. It is very basic and uses a greedy algorithm that checks all possible neighbors before making a decision.
-*Uploaded to GitHub, December 2020
 *@author Urjeet Deshmukh, August 2019
 */
 
