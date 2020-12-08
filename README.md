@@ -4,11 +4,11 @@ One of my first Java programs, this is an implementation of a greedy algorithm t
 *Program Written in August 2019* 
 *Pushed to Github in December 2020*
 
-**COMPILATION:** :
-    javac SimpleMazeSolver.java
+**COMPILATION:**
+> javac SimpleMazeSolver.java
 
-**EXECUTION:** :
-    java SimpleMazeSolver
+**EXECUTION:**
+> java SimpleMazeSolver
 
 Follow the instructions that are outputted.
 
