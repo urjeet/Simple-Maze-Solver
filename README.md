@@ -1,7 +1,7 @@
-#SimpleMazeSolver
+##SimpleMazeSolver
 ***
-One of my first Java programs, this is an implementation of a greedy algorithm to solve a maze. This maze solution calculator can calculate the correct path for any maze that does not have dead-ends and has only one solution. Users will be asked to input width, length, and the maze itself.
-*Program Written in August 2019* 
+One of my first Java programs, this is an implementation of a greedy algorithm to solve a maze. This maze solution calculator can calculate the correct path for any maze that does not have dead-ends and has only one solution. Users will be asked to input width, length, and the maze itself.  
+*Program Written in August 2019*  
 *Pushed to Github in December 2020*
 
 **COMPILATION:**
